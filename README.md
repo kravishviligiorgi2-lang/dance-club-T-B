@@ -128,7 +128,7 @@ This project helps people learn more about our studio.
 <footer>
 <p>სტუდიას საფუძველი 2011 წელს ჩაეყარა.</p>
 <p> აქ იზრდებიან ჩემპიონები.</p>
-  <p>© 2026 Dance Club T&B</p>
+  <p>© 2011 Dance Club T&B</p>
 </footer>
 
 </body>
