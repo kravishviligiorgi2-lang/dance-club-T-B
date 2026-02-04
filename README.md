@@ -1,2 +1,133 @@
 # dance-club-T-B
 This project helps people learn more about our studio.
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dance Club T&B</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body { margin:0;font-family:Arial,Helvetica,sans-serif;background:#EDEDED;color:#2A2A2A; }
+    header { background:#F2EFEA;color:#2A2A2A;padding:40px 20px; text-align:center; }
+    nav a { color:#B08D3A;text-decoration:none;font-weight:bold;margin-right:20px; }
+    section { padding:50px 20px;max-width:1100px;margin:auto; }
+    h2 { color:#B08D3A;border-bottom:2px solid #B08D3A;display:inline-block;padding-bottom:5px; }
+    .grid { display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:20px;margin-top:25px; }
+    .card { background:#F7F7F7;border:1px solid #D9D9D9;padding:20px;text-align:center;box-shadow:0 10px 25px rgba(0,0,0,0.05); }
+    .card img, .media img { width:100%;height:250px;object-fit:cover;filter:grayscale(100%); }
+    .media video { width:100%; }
+    footer { background:#F2EFEA;color:#555;text-align:center;padding:20px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <!-- ლოგო ზემოდან -->
+<img src="sawyiswi2.png.jpg" alt="Dance Club T&B Logo" style="width:250px;display:block;margin:0 auto 40px;" />
+  <nav style="display:flex;justify-content:center;align-items:center;gap:20px;flex-wrap:wrap;">
+    <a href="#groups">მოგესალმებათ DanceClub T&B</a>
+
+  </nav>
+  <p style="margin-top:20px;">ცეკვა • ენერგია • პროფესიონალიზმი</p>
+</header>
+
+<section id="groups">
+<h2>ჯგუფების განრიგი</h2>
+<div class="grid">
+<div class="card">
+<h3>წყვილების ჯგუფი</h3>
+<p>შაბათი,კვირა 13:00-14:00</p>
+</div>
+<div class="card">
+<h3>პატარების ჯგუფი</h3>
+<p>შაბათი,კვირა 14:00-15:00</p>
+<p>ოთხშაბათი 18:30-19:30</p>
+</div>
+<div class="card">
+<h3>მოზარდების ჯგუფი</h3>
+<p>შაბათი,კვირა 11:00-12:00</p>
+<p>სამშაბათი 19:00-20:00</p>
+</div>
+<div class="card">
+<h3>დიდების ჯგუფი</h3>
+<p>შაბათი,კვირა 17:00-18:00</p>
+<p>ოთხშაბათი 16:00-18-00
+</div>
+</section>
+
+<section id="teachers">
+  <h2>მასწავლებლები და ასისტენტები</h2>
+  <div class="grid">
+    <div class="card">
+      <img src="tamuna.png.jpg" alt="მასწავლებელი" />
+      <h3>თამარი კილაძე</h3>
+      <p><strong>სტუდიის ხელმძღვანელი</strong></p>
+      <p> საქართველოს სპორტ ცეკვების ეროვნული ფედერაციის 1-ლი კატეგორიის მსაჯი</p>
+    </div>
+    <div class="card">
+      <img src="beso.png.jpg" alt="მასწავლებელი" />
+      <h3>ბესო კრავიშვილი</h3>
+      <p><strong>სტუდიის ხელმძღვანელი</strong></p>
+      <p>საქართველოს სპორტ ცეკვების ეროვნული ფედერაციის 2 კატეგორიის მსაჯი</p>
+    </div>
+    <div class="card">
+<img src="gio.png.jpg" alt="ასისტენტი" />
+<h3>გიორგი კრავიშვილი</h3>
+<p><strong>მასწავლებლის ასისტენტი</strong></p>
+<p>საქართველოს თასის 6-გზის მფლობელი</p>
+</div>
+
+
+<div class="card">
+<img src="niako.png.jpg" alt="ასისტენტი"/>
+<h3>ნია ზოსიაშვილი</h3>
+<p><strong>მასწავლებლის ასისტენტი</strong></p>
+<p>საქართველოს თასის 6-გზის მფლობელი</p>
+</div>
+
+
+<div class="card">
+<img src="qeto.png.jpg" alt="ასისტენტი" />
+<h3>ქეთო ფცქიალაძე</h3>
+<p><strong>მასწავლებლის ასისტენტი</strong></p>
+<p></p>
+</div>
+
+
+<div class="card">
+<img src="taso.png.jpg" alt="ასისტენტი" />
+<h3>ანასტასია ბანძელაძე</h3>
+<p><strong>მასწავლებლის ასისტენტი</strong></p>
+<p></p>
+</div>
+
+
+
+</section>
+
+
+<section id="media">
+  <h2>ფოტო & ვიდეო გალერეა</h2>
+  <div class="grid media">
+    <video controls src="gionia.png.mp4"></video>
+    <img src ="qeto2.png.jpg"style = "width:260px">
+    <img src ="taso2.png.jpg"style = "width:260px">
+    
+  </div>
+</section>
+
+<section id="contact">
+  <h2>კონტაქტი</h2>
+  <p>📞 ტელეფონი: 597 999 881 ბესო კრავიშვილი</p>
+  <p>📞 ტელეფონი: 597 99 21 44 თამარი კილაძე</p>
+  <p>📍 ლოკაცია: ქუთაისი,ზ.ანჯაფარიძის #1 </p>
+</section>
+
+<footer>
+<p>სტუდიას საფუძველი 2011 წელს ჩაეყარა.</p>
+<p> აქ იზრდებიან ჩემპიონები.</p>
+  <p>© 2026 Dance Club T&B</p>
+</footer>
+
+</body>
+</html>
