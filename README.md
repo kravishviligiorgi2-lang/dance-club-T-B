@@ -44,6 +44,11 @@ This project helps people learn more about our studio.
 <p>ოთხშაბათი 18:30-19:30</p>
 </div>
 <div class="card">
+<h3>2023 მოზარდების ჯგუფი</h3>
+<p>შაბათი,კვირა 15:00-16:30</p>
+<p>სამშაბათი 18:00-19:00</p>
+</div>
+<div class="card">
 <h3>მოზარდების ჯგუფი</h3>
 <p>შაბათი,კვირა 11:00-12:00</p>
 <p>სამშაბათი 19:00-20:00</p>
@@ -56,7 +61,7 @@ This project helps people learn more about our studio.
 </section>
 
 <section id="teachers">
-  <h2>მასწავლებლები და ასისტენტები</h2>
+  <h2>მწვრთნელები და ასისტენტები</h2>
   <div class="grid">
     <div class="card">
       <img src="tamuna.png.jpg" alt="მასწავლებელი" />
@@ -98,7 +103,7 @@ This project helps people learn more about our studio.
 <img src="taso.png.jpg" alt="ასისტენტი" />
 <h3>ანასტასია ბანძელაძე</h3>
 <p><strong>მასწავლებლის ასისტენტი</strong></p>
-<p></p>
+<p> საქართველოს 1 გზის თასის მფლობელი</p>
 </div>
 
 
@@ -128,7 +133,7 @@ This project helps people learn more about our studio.
 <footer>
 <p>სტუდიას საფუძველი 2011 წელს ჩაეყარა.</p>
 <p> აქ იზრდებიან ჩემპიონები.</p>
-  <p>© 2011 Dance Club T&B</p>
+  <p>© 2026 Dance Club T&B</p>
 </footer>
 
 </body>
