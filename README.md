@@ -109,7 +109,9 @@ This project helps people learn more about our studio.
 <section id="media">
   <h2>ფოტო & ვიდეო გალერეა</h2>
   <div class="grid media">
-    <video controls src="gionia.png.mp4"></video>
+    <video width="100%" controls>
+  <source src="images/gionia.png.mp4" type="video/mp4">
+</video>
     <img src ="qeto2.png.jpg"style = "width:260px">
     <img src ="taso2.png.jpg"style = "width:260px">
     
