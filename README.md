@@ -78,7 +78,7 @@ This project helps people learn more about our studio.
     <div class="card">
 <img src="gio.png.jpg" alt="ასისტენტი" />
 <h3>გიორგი კრავიშვილი</h3>
-<p><strong>მასწავლებლის ასისტენტი</strong></p>
+<p><strong>სტუდია T&B-ის ასისტენტი</strong></p>
 <p>საქართველოს თასის 6-გზის მფლობელი</p>
 </div>
 
@@ -86,7 +86,7 @@ This project helps people learn more about our studio.
 <div class="card">
 <img src="niako.png.jpg" alt="ასისტენტი"/>
 <h3>ნია ზოსიაშვილი</h3>
-<p><strong>მასწავლებლის ასისტენტი</strong></p>
+<p><strong> სტუდია T&B-ის ასისტენტი</strong></p>
 <p>საქართველოს თასის 6-გზის მფლობელი</p>
 </div>
 
@@ -94,7 +94,7 @@ This project helps people learn more about our studio.
 <div class="card">
 <img src="qeto.png.jpg" alt="ასისტენტი" />
 <h3>ქეთო ფცქიალაძე</h3>
-<p><strong>მასწავლებლის ასისტენტი</strong></p>
+<p><strong>სტუდია T&B-ის ასისტენტი</strong></p>
 <p></p>
 </div>
 
@@ -102,7 +102,7 @@ This project helps people learn more about our studio.
 <div class="card">
 <img src="taso.png.jpg" alt="ასისტენტი" />
 <h3>ანასტასია ბანძელაძე</h3>
-<p><strong>მასწავლებლის ასისტენტი</strong></p>
+<p><strong>სტუდია T&B-ის ასისტენტი</strong></p>
 <p> საქართველოს 1 გზის თასის მფლობელი</p>
 </div>
 
